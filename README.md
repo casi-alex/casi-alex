@@ -20,9 +20,9 @@ My background in technical support helped me develop adaptability, critical thin
 <a href="https://linkedin.com/in/casillasernesto" rel="noopener noreferrer" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0f160c1a-c5f2-42ec-8c75-6c65d5431324" alt="casillasernesto" height="30" width="30" /></a>
 </p>
 <br>
-<h2 align="left">Recent Blog Post:</h2>
-<p align="left">
-:point_right:  <a href="https://dev.to/marisabrantley/10-things-i-wish-id-known-when-starting-my-coding-journey-3ga1" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
+<h2 align="center">Portfolio:</h2>
+<p align="center">
+:point_right:  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
 </p>
 <br>
 
