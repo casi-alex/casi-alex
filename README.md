@@ -1,4 +1,5 @@
-![GitHub Readme Profile Banner copy](https://user-images.githubusercontent.com/60168324/137659662-30dd7b29-f742-4b24-87fe-12fb99a9d72c.gif)
+<img width="2000" height="600" alt="Blue Futuristic Technology LinkedIn Background Photo (4)" src="https://github.com/user-attachments/assets/0e26b175-6d39-4706-88eb-3d4b7ac8ccd8" />
+
 <br>
 <br>
 
