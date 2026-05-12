@@ -22,7 +22,7 @@ My background in technical support helped me develop adaptability, critical thin
 <br>
 <h2 align="center">Portfolio:</h2>
 <p align="center">
-:point_right:  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
+:point_right:  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" rel="noopener noreferrer" target="_blank">Notion:Portfolio Ernesto Casillas</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
 </p>
 <br>
 
