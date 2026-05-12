@@ -13,7 +13,7 @@ Experienced in manual and automated testing using Selenium WebDriver, Python, Py
 My background in technical support helped me develop adaptability, critical thinking, and a structured approach to problem investigation.</p>
 <br>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="mailto: casi_alex@outlook.es" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b2524c3a-23cd-438e-aad2-7ebdbb13920a" alt="casi_alex@outlook.es" height="30" width="30" />
 </a>
