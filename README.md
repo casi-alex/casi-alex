@@ -24,7 +24,6 @@ My background in technical support helped me develop adaptability, critical thin
 <p align="center">
 :point_right:  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" rel="noopener noreferrer" target="_blank">Notion:Portfolio Ernesto Casillas</a><br>
 </p>
-<br>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
