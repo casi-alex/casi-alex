@@ -24,9 +24,9 @@ My background in technical support helped me develop adaptability, critical thin
 <p align="center">
 :point_right:  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" rel="noopener noreferrer" target="_blank">Notion:Portfolio Ernesto Casillas</a><br>
 </p>
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">
+<a href="https://pypi.org/project/pytest/" target="_blank"> <img src="https://github.com/user-attachments/assets/40bbe97c-8a2a-4f09-8cd1-a233f5063945" alt="Python/Pytest" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
