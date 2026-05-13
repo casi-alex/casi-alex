@@ -60,19 +60,19 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
-<p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save, and delete them.</p>
+<p><strong>PostgreSQL, HTML, JSON, Postman, Android Studio, Jira, GitHub, Git</strong> - I performed manual (UI) and API testing for a scooter rental platform, validating order flows across web and mobile, identifying key defects, and ensuring data integrity. All issues were tracked in Jira and testing was conducted collaboratively in an agile team.</p>
 </div>
                                                                                        
-<h3 align="center">Guess The Word Game App</h3>
+<h3 align="center">Urban Routes (Automated Tests)</h3>
 <div align="center">
-<a href="https://marisabrantley.github.io/guess-the-word/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" width="400" alt="Guess the Word App"></a>
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" width="400" alt="Guess the Word App"></a>
 <br>
 <br>
 <p>
-<a href="https://github.com/marisabrantley/guess-the-word" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
+<a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
+<img src="src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
 </a>
-<a href="https://marisabrantley.github.io/guess-the-word/" target="_blank">
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
@@ -88,7 +88,7 @@ My background in technical support helped me develop adaptability, critical thin
 <br>
 <p>
 <a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
-<img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
+<img src="src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
 </a>
 <a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
