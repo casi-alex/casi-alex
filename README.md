@@ -75,7 +75,7 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
-<p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
+<p><strong>Pytest,Python Selenium, PostgreSQL, HTML, CSS, JSON, GitHub, Git(Bash)</strong> - Developed and automated API tests for Urban Grocers using Python, Requests, and Pytest, validating user kit creation and comprehensive input scenarios to ensure robust backend functionality.</p>
 </div>
 </td>
 <td width="50%">
@@ -92,27 +92,25 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
-</p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
+</p><strong>Pytest, Python, Selenium, HTML, GitHub, Git(Bash)> - Developed and executed automated end-to-end tests for Urban Route’s web app using Python and Selenium, validating the complete taxi booking flow and ensuring robust functionality across dynamic user scenarios.</p>
 </div>
-<h3 align="center">LOLcat Clock App</h3>
+<h3 align="center">Chicago Taxi: Database</h3>
 <div align="center">
-<a href="https://marisabrantley.github.io/lolcat-clock/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App"></a>
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c28073902adaa990d96817&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/706a6b9d-84aa-410c-8b59-9cac5554070e" width="400" alt="Chicago Taxi: Database"></a>
 <br>
 <br>
 <p>
-<a href="https://github.com/marisabrantley/lolcat-clock" target="_blank">
-<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://marisabrantley.github.io/lolcat-clock/" target="_blank">
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c28073902adaa990d96817&pm=c" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
 </a>
-</p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with current time and images that change with time of day. It also has three timers and corresponding images for each.</p>
+</p><strong>PostgreSQL, Git(Bash)/strong> - Performed log analysis and database queries for a taxi platform using GitBash and SQL. Extracted and filtered server logs, automated error log management, and generated business insights through advanced SQL queries, supporting data-driven troubleshooting and reporting.</p>
 </div>                                                                  
 </table>                                                                                 
 </div>
 <br>
 <hr>                                                                                      
 <br>
+ 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=graywhite">
 </p>
