@@ -70,7 +70,7 @@ My background in technical support helped me develop adaptability, critical thin
 <br>
 <p>
 <a href="https://github.com/marisabrantley/guess-the-word" target="_blank">
-<img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black"">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
 </a>
 <a href="https://marisabrantley.github.io/guess-the-word/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
