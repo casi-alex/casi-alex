@@ -27,18 +27,22 @@ My background in technical support helped me develop adaptability, critical thin
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <a href="https://pypi.org/project/pytest/" target="_blank"> <img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000" alt="Python/Pytest" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="figma"
- </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" /> </a>
+<a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm" /> </a>
+<a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium WebDriver" </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" </a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" </a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS" /> </a>
+<a href="https://www.json.org/json-es.html" target="_blank"> <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" /> </a>
+<a href="https://www.postman.com/"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" /> </a>
+<a href="https://developer.android.com/studio"> <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff" alt="Android Studio" /> </a>
+<a href="https://www.atlassian.com/software"> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" /> </a>
+<a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" /> </a>
+<a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /> </a>
+<a href="https://www.notion.com/"> <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion" /> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="figma" </a> 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" /> </a>
- <a href="https://codesandbox.io/u/marisabrantley" target="_blank"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" /> </a>
-<a href=# target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
 </p>
 <br>
  
