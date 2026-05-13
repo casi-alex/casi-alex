@@ -92,7 +92,7 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
-</p><strong>Pytest, Python, Selenium, HTML, GitHub, Git(Bash)/strong> - Developed and executed automated end-to-end tests for Urban Route’s web app using Python and Selenium, validating the complete taxi booking flow and ensuring robust functionality across dynamic user scenarios.</p>
+</p><strong>Pytest, Python, Selenium, HTML, GitHub, Git(Bash)</strong> - Developed and executed automated end-to-end tests for Urban Route’s web app using Python and Selenium, validating the complete taxi booking flow and ensuring robust functionality across dynamic user scenarios.</p>
 </div>
 <h3 align="center">Chicago Taxi: Database</h3>
 <div align="center">
@@ -103,7 +103,7 @@ My background in technical support helped me develop adaptability, critical thin
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c28073902adaa990d96817&pm=c" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
 </a>
-</p><strong>PostgreSQL, Git(Bash)/strong> - Performed log analysis and database queries for a taxi platform using GitBash and SQL. Extracted and filtered server logs, automated error log management, and generated business insights through advanced SQL queries, supporting data-driven troubleshooting and reporting.</p>
+</p><strong>PostgreSQL, Git(Bash)</strong> - Performed log analysis and database queries for a taxi platform using GitBash and SQL. Extracted and filtered server logs, automated error log management, and generated business insights through advanced SQL queries, supporting data-driven troubleshooting and reporting.</p>
 </div>                                                                  
 </table>                                                                                 
 </div>
