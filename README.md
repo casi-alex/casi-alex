@@ -57,7 +57,7 @@ My background in technical support helped me develop adaptability, critical thin
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c280b69373df29b43373d6&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/14e3727c-14de-4c5d-8332-137d9eb018e0" width="400" alt="Urban Scooter"></a>
 <p>
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c280b69373df29b43373d6&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
+<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black">
 </a>
 </p>
 <p><strong>PostgreSQL, HTML, JSON, Postman, Android Studio, Jira, GitHub, Git</strong> - I performed manual (UI) and API testing for a scooter rental platform, validating order flows across web and mobile, identifying key defects, and ensuring data integrity. All issues were tracked in Jira and testing was conducted collaboratively in an agile team.</p>
