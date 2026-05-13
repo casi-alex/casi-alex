@@ -65,8 +65,7 @@ My background in technical support helped me develop adaptability, critical thin
                                                                                        
 <h3 align="center">Urban Routes (Automated Tests)</h3>
 <div align="center">
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/01c9c412-631e-4149-879e-6020f6963677" width="400" alt="Guess the Word App"></a>
-
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/01c9c412-631e-4149-879e-6020f6963677" width="400" alt="Urban Routes (Automated Tests)"></a>
 <br>
 <br>
 <p>
@@ -82,16 +81,17 @@ My background in technical support helped me develop adaptability, critical thin
 </td>
 
 <td width="50%">
-<h3 align="center">GitHub Repo Gallery App</h3>
+ 
+<h3 align="center">Urban Grocers (API Automated Tests)</h3>
 <div align="center">                                       
-<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219548465-185483ec-830e-4b12-bf8e-0b67bff15885.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c"><img src="https://github.com/user-attachments/assets/5932f6c8-915b-46e1-b366-d6fc13094259" width="400" alt="Urban Grocers (API Automated Tests)"></a>
 <br>
 <br>
 <p>
-<a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
+<a href="https://github.com/casi-alex/qa-project-Urban-Grocers-app-es" target="_blank">
 <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
