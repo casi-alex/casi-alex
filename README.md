@@ -54,7 +54,7 @@ My background in technical support helped me develop adaptability, critical thin
 <td width="50%">
 <h3 align="center">Super Sticky Notes App</h3>
 <div align="center">
-<a href=""https://marisabrantley.github.io/sticky-notes-app/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219544721-b7561260-a747-4a0a-bef8-6c357865633b.jpeg" width="400" alt="Super Sticky Notes App"></a>
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c280b69373df29b43373d6&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/14e3727c-14de-4c5d-8332-137d9eb018e0" width="400" alt="Urban Scooter"></a>
 <p>
 <a href="https://github.com/marisabrantley/sticky-notes-app" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
