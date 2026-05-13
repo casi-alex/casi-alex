@@ -73,7 +73,7 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
 </a>
 <a href="https://marisabrantley.github.io/guess-the-word/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
 <p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
@@ -91,23 +91,19 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
 </p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
 </div>
-
 <h3 align="center">LOLcat Clock App</h3>
 <div align="center">
 <a href="https://marisabrantley.github.io/lolcat-clock/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App"></a>
-
-
-
 <br>
 <br>
 <p>
 <a href="https://github.com/marisabrantley/lolcat-clock" target="_blank">
-<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
+<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://marisabrantley.github.io/lolcat-clock/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
