@@ -62,26 +62,6 @@ My background in technical support helped me develop adaptability, critical thin
 </p>
 <p><strong>PostgreSQL, HTML, JSON, Postman, Android Studio, Jira, GitHub, Git</strong> - I performed manual (UI) and API testing for a scooter rental platform, validating order flows across web and mobile, identifying key defects, and ensuring data integrity. All issues were tracked in Jira and testing was conducted collaboratively in an agile team.</p>
 </div>
-                                                                                       
-<h3 align="center">Urban Routes (Automated Tests)</h3>
-<div align="center">
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/01c9c412-631e-4149-879e-6020f6963677" width="400" alt="Urban Routes (Automated Tests)"></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
-<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
-</a>
-</p>
-<p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
-</div>
-</td>
-
-<td width="50%">
- 
 <h3 align="center">Urban Grocers (API Automated Tests)</h3>
 <div align="center">                                       
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c"><img src="https://github.com/user-attachments/assets/5932f6c8-915b-46e1-b366-d6fc13094259" width="400" alt="Urban Grocers (API Automated Tests)"></a>
@@ -92,6 +72,23 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
+</a>
+</p>
+<p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Urban Routes (Automated Tests)</h3>
+<div align="center">
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/01c9c412-631e-4149-879e-6020f6963677" width="400" alt="Urban Routes (Automated Tests)"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
+<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
