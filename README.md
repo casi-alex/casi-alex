@@ -77,7 +77,7 @@ My background in technical support helped me develop adaptability, critical thin
 </p>
 <p><strong>Pytest,Python Selenium, PostgreSQL, HTML, CSS, JSON, GitHub, Git(Bash)</strong> - Developed and automated API tests for Urban Grocers using Python, Requests, and Pytest, validating user kit creation and comprehensive input scenarios to ensure robust backend functionality.</p>
 </div>
-</td>
+
 <td width="50%">
 <h3 align="center">Urban Routes (Automated Tests)</h3>
 <div align="center">
