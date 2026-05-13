@@ -65,7 +65,8 @@ My background in technical support helped me develop adaptability, critical thin
                                                                                        
 <h3 align="center">Urban Routes (Automated Tests)</h3>
 <div align="center">
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" width="400" alt="Guess the Word App"></a>
+<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/01c9c412-631e-4149-879e-6020f6963677" width="400" alt="Guess the Word App"></a>
+
 <br>
 <br>
 <p>
