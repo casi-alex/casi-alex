@@ -70,7 +70,7 @@ My background in technical support helped me develop adaptability, critical thin
 <br>
 <p>
 <a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
-<img src="src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
+<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
@@ -88,7 +88,7 @@ My background in technical support helped me develop adaptability, critical thin
 <br>
 <p>
 <a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
-<img src="src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
+<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
