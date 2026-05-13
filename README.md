@@ -107,7 +107,4 @@ My background in technical support helped me develop adaptability, critical thin
 </div>                                                                  
 </table>                                                                                 
 </div>
-<br>
-<hr>                                                                                      
-<br>
  
