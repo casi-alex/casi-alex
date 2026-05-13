@@ -40,9 +40,8 @@ My background in technical support helped me develop adaptability, critical thin
 <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" /> </a>
 <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /> </a>
 <a href="https://www.notion.com/"> <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion" /> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="figma" </a> 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" </a>
-<a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" </a> 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img 
 </p>
 <br>
  
