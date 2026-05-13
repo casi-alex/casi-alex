@@ -72,7 +72,7 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
+<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black">
 </a>
 </p>
 <p><strong>Pytest,Python Selenium, PostgreSQL, HTML, CSS, JSON, GitHub, Git(Bash)</strong> - Developed and automated API tests for Urban Grocers using Python, Requests, and Pytest, validating user kit creation and comprehensive input scenarios to ensure robust backend functionality.</p>
@@ -89,7 +89,7 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
+<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black">
 </a>
 </p>
 </p><strong>Pytest, Python, Selenium, HTML, GitHub, Git(Bash)</strong> - Developed and executed automated end-to-end tests for Urban Route’s web app using Python and Selenium, validating the complete taxi booking flow and ensuring robust functionality across dynamic user scenarios.</p>
@@ -101,7 +101,7 @@ My background in technical support helped me develop adaptability, critical thin
 <br>
 <p>
 <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c28073902adaa990d96817&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
+<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black"">
 </a>
 </p><strong>PostgreSQL, Git(Bash)</strong> - Performed log analysis and database queries for a taxi platform using GitBash and SQL. Extracted and filtered server logs, automated error log management, and generated business insights through advanced SQL queries, supporting data-driven troubleshooting and reporting.</p>
 </div>                                                                  
