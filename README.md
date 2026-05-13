@@ -92,7 +92,7 @@ My background in technical support helped me develop adaptability, critical thin
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
 </a>
 </p>
-</p><strong>Pytest, Python, Selenium, HTML, GitHub, Git(Bash)> - Developed and executed automated end-to-end tests for Urban Route’s web app using Python and Selenium, validating the complete taxi booking flow and ensuring robust functionality across dynamic user scenarios.</p>
+</p><strong>Pytest, Python, Selenium, HTML, GitHub, Git(Bash)/strong> - Developed and executed automated end-to-end tests for Urban Route’s web app using Python and Selenium, validating the complete taxi booking flow and ensuring robust functionality across dynamic user scenarios.</p>
 </div>
 <h3 align="center">Chicago Taxi: Database</h3>
 <div align="center">
