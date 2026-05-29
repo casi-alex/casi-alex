@@ -5,8 +5,8 @@
 ### QA Automation Engineer &nbsp;·&nbsp; API Testing &nbsp;·&nbsp; Selenium &nbsp;·&nbsp; Python &nbsp;·&nbsp; Postman
 
 <p>
-  <a href="mailto:casi_alex@outlook.es">
-    <img src="https://img.shields.io/badge/casi__alex%40outlook.es-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  <a href="mailto:alexcasillaslab@gmail.com">
+    <img src="https://img.shields.io/badge/alexcasillaslab%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/casillasernesto" target="_blank">
@@ -88,10 +88,6 @@ Before QA, I spent 3+ years in technical support building structured troubleshoo
       <h3 align="center">Urban Routes &mdash; E2E Automation</h3>
       <div align="center">
         <a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
-          <img src="https://github.com/user-attachments/assets/5911b5d4-02b1-43b3-a23e-beffedc5412f&repo=qa-project-Urban-Routes-es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Urban Routes Repo"/>
-        </a>
-        <br/><br/>
-        <a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
           <img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
@@ -109,10 +105,6 @@ Before QA, I spent 3+ years in technical support building structured troubleshoo
     <td width="50%" valign="top">
       <h3 align="center">Urban Grocers &mdash; API Automation</h3>
       <div align="center">
-        <a href="https://github.com/casi-alex/qa-project-Urban-Grocers-app-es" target="_blank">
-          <img src="https://github.com/user-attachments/assets/f3786fe7-b168-473b-afbc-8a407871d92d&repo=qa-project-Urban-Grocers-app-es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Urban Grocers Repo"/>         
-        </a>
-        <br/><br/>
         <a href="https://github.com/casi-alex/qa-project-Urban-Grocers-app-es" target="_blank">
           <img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
@@ -185,5 +177,5 @@ Before QA, I spent 3+ years in technical support building structured troubleshoo
 ---
 
 <div align="center">
-  <sub>Open to remote QA Engineer roles and freelance projects &nbsp;·&nbsp; Guadalajara, Mexico &nbsp;·&nbsp; <a href="mailto:casi_alex@outlook.es">casi_alex@outlook.es</a></sub>
+  <sub>Open to remote QA Engineer roles and freelance projects &nbsp;·&nbsp; Guadalajara, Mexico &nbsp;·&nbsp; <a href="mailto:alexcasillaslab@gmail.com">alexcasillaslab@gmail.com</a></sub>
 </div>
