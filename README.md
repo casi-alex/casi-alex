@@ -1,110 +1,189 @@
-<img width="2000" height="600" alt="Blue Futuristic Technology LinkedIn Background Photo (4)" src="https://github.com/user-attachments/assets/0e26b175-6d39-4706-88eb-3d4b7ac8ccd8" />
-
-<br>
-<br>
-
-<h2 align=center>Hi! I'm Alex Casillas 👋.</h2>
-<h3 align=center>QA Analyst & Tester </h3>
-<br>
-<p align="center">QA Analyst focused on automation, API testing, troubleshooting, and business logic validation.
-
-Experienced in manual and automated testing using Selenium WebDriver, Python, Pytest, Postman, SQL, Jira, and DevTools, with a strong interest in backend validation, workflow analysis, and user-focused quality.
-
-My background in technical support helped me develop adaptability, critical thinking, and a structured approach to problem investigation.</p>
-<br>
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="mailto: casi_alex@outlook.es" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b2524c3a-23cd-438e-aad2-7ebdbb13920a" alt="casi_alex@outlook.es" height="30" width="30" />
-</a>
-<a href="https://linkedin.com/in/casillasernesto" rel="noopener noreferrer" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0f160c1a-c5f2-42ec-8c75-6c65d5431324" alt="casillasernesto" height="30" width="30" /></a>
-</p>
-<br>
-<h2 align="center">Portfolio:</h2>
-<p align="center">
-:point_right:  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" rel="noopener noreferrer" target="_blank">Notion:Portfolio Ernesto Casillas</a><br>
-</p>
-<br>
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
-<a href="https://pypi.org/project/pytest/" target="_blank"> <img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000" alt="Python/Pytest" /> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" /> </a>
-<a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm" /> </a>
-<a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium WebDriver" </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" </a>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" </a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS" /> </a>
-<a href="https://www.json.org/json-es.html" target="_blank"> <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" /> </a>
-<a href="https://www.postman.com/"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" /> </a>
-<a href="https://developer.android.com/studio"> <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff" alt="Android Studio" /> </a>
-<a href="https://www.atlassian.com/software"> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" /> </a>
-<a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" /> </a>
-<a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /> </a>
-<a href="https://www.notion.com/"> <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion" /> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" </a> 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img 
-</p>
-<br>
- 
-<h2 align="center">Featured Projects</h2>
-<br>
 <div align="center">
+
+# Ernesto Casillas
+
+### QA Automation Engineer &nbsp;·&nbsp; API Testing &nbsp;·&nbsp; Selenium &nbsp;·&nbsp; Python &nbsp;·&nbsp; Postman
+
+<p>
+  <a href="mailto:casi_alex@outlook.es">
+    <img src="https://img.shields.io/badge/casi__alex%40outlook.es-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/casillasernesto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-casillasernesto-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Guadalajara%2C%20Mexico-222?style=flat&logo=googlemaps&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Remote--Ready-00b894?style=flat&logo=checkmarx&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/EN%20%7C%20ES-Bilingual-6c5ce7?style=flat"/>
+</p>
+
+</div>
+
+---
+
+## About
+
+QA Automation Engineer with a portfolio of **7 projects** and **150+ defects identified** — including critical business logic failures, boundary value violations, and cross-browser blockers. I build automated test suites with **Selenium WebDriver + Python + Page Object Model** and design API test coverage around **boundary value analysis** as a core methodology, not an afterthought.
+
+Before QA, I spent 3+ years in technical support building structured troubleshooting approaches and conducting call audits — the same analytical thinking, different domain. I built a process documentation guide that reduced team handling time by **34% in one week** and was adopted by 150+ agents. I transitioned into QA because I was already doing the work.
+
+> *I don't just find bugs — I document them in a way that shortens the path from detection to resolution.*
+
+---
+
+## Tech Stack
+
+**Test Automation & QA**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-fff?style=flat&logo=pytest&logoColor=000)
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-222?style=flat)
+![Boundary Value Analysis](https://img.shields.io/badge/Boundary%20Value%20Analysis-222?style=flat)
+![Equivalence Partitioning](https://img.shields.io/badge/Equivalence%20Partitioning-222?style=flat)
+
+**API & Backend Testing**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![JSON](https://img.shields.io/badge/JSON-000?style=flat&logo=json&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Languages & Web**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?style=flat&logo=css&logoColor=fff)
+
+**Tools & Systems**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?style=flat&logo=androidstudio&logoColor=white)
+![DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Linux CLI](https://img.shields.io/badge/Linux%20CLI-FCC624?style=flat&logo=linux&logoColor=000)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=fff)
+![Agile Scrum](https://img.shields.io/badge/Agile%20%7C%20Scrum-0052CC?style=flat)
+
+---
+
+## Featured Projects
+
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Urban Scooter</h3>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Urban Routes &mdash; E2E Automation</h3>
+      <div align="center">
+        <a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
+          <img src="https://github.com/user-attachments/assets/5911b5d4-02b1-43b3-a23e-beffedc5412f&repo=qa-project-Urban-Routes-es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Urban Routes Repo"/>
+        </a>
+        <br/><br/>
+        <a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
+          <img src="https://img.shields.io/badge/DETAILS-000?style=for-the-badge&logo=notion&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <p align="left">
+          <strong>Selenium WebDriver &middot; Python &middot; pytest &middot; Page Object Model</strong><br/>
+          9 automated E2E tests covering the complete taxi booking flow. POM architecture separates
+          test logic from UI locators. Explicit waits for dynamic elements; Selenium Manager
+          handles ChromeDriver automatically.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Urban Grocers &mdash; API Automation</h3>
+      <div align="center">
+        <a href="https://github.com/casi-alex/qa-project-Urban-Grocers-app-es" target="_blank">
+          <img src="https://github.com/user-attachments/assets/f3786fe7-b168-473b-afbc-8a407871d92d&repo=qa-project-Urban-Grocers-app-es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Urban Grocers Repo"/>         
+        </a>
+        <br/><br/>
+        <a href="https://github.com/casi-alex/qa-project-Urban-Grocers-app-es" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c" target="_blank">
+          <img src="https://img.shields.io/badge/DETAILS-000?style=for-the-badge&logo=notion&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <p align="left">
+          <strong>Python &middot; requests &middot; pytest &middot; REST API</strong><br/>
+          9 automated API tests targeting boundary values (1/511/512 chars), special input types,
+          and error handling. Shared assertion helpers isolate HTTP logic from test cases.
+          Built around boundary value analysis as a core methodology.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Urban Scooter &mdash; Manual &amp; API Testing</h3>
+      <div align="center">
+        <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c280b69373df29b43373d6&pm=c" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-000?style=for-the-badge&logo=notion&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <p align="left">
+          <strong>Jira &middot; Postman &middot; Chrome &middot; Opera &middot; Android Studio</strong><br/>
+          <strong>58 defects &mdash; 12 critical, 10 flow-blocking.</strong> Expanded coverage to
+          Chrome + Opera in parallel; Opera surfaced a complete order flow blocker invisible
+          in Chrome alone. API checklists structured by HTTP response code with direct
+          database validation. Approved first submission.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Urban Grocers &mdash; Manual API Testing</h3>
+      <div align="center">
+        <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-000?style=for-the-badge&logo=notion&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <p align="left">
+          <strong>Postman &middot; Jira &middot; Boundary Value Analysis</strong><br/>
+          57 test cases &middot; <strong>24 defects</strong> including 6 high-priority boundary
+          failures. The API accepted <code>productsCount=16</code> (max:15),
+          <code>productsWeight=6.1kg</code> (max:6.0), and <code>deliveryTime=7</code>
+          and <code>23</code> (valid window: 8&ndash;22). All three tested parameters
+          failed at their limits. Approved first submission.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c280b69373df29b43373d6&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/14e3727c-14de-4c5d-8332-137d9eb018e0" width="400" alt="Urban Scooter"></a>
-<p>
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c280b69373df29b43373d6&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black">
-</a>
-</p>
-<p><strong>PostgreSQL, HTML, JSON, Postman, Android Studio, Jira, GitHub, Git</strong> - I performed manual (UI) and API testing for a scooter rental platform, validating order flows across web and mobile, identifying key defects, and ensuring data integrity. All issues were tracked in Jira and testing was conducted collaboratively in an agile team.</p>
+  <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%207%20Projects%20%E2%86%92-000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </div>
-<h3 align="center">Urban Grocers (API Automated Tests)</h3>
-<div align="center">                                       
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c"><img src="https://github.com/user-attachments/assets/5932f6c8-915b-46e1-b366-d6fc13094259" width="400" alt="Urban Grocers (API Automated Tests)"></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/casi-alex/qa-project-Urban-Grocers-app-es" target="_blank">
-<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black">
-</a>
-</p>
-<p><strong>Pytest,Python Selenium, PostgreSQL, HTML, CSS, JSON, GitHub, Git(Bash)</strong> - Developed and automated API tests for Urban Grocers using Python, Requests, and Pytest, validating user kit creation and comprehensive input scenarios to ensure robust backend functionality.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Urban Routes (Automated Tests)</h3>
+
+---
+
+## GitHub Stats
+
 <div align="center">
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/01c9c412-631e-4149-879e-6020f6963677" width="400" alt="Urban Routes (Automated Tests)"></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
-<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black">
-</a>
-</p>
-</p><strong>Pytest, Python, Selenium, HTML, GitHub, Git(Bash)</strong> - Developed and executed automated end-to-end tests for Urban Route’s web app using Python and Selenium, validating the complete taxi booking flow and ensuring robust functionality across dynamic user scenarios.</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=casi-alex&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" height="160" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casi-alex&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=5" height="160" alt="Top Languages"/>
 </div>
-<h3 align="center">Chicago Taxi: Database</h3>
+
+---
+
 <div align="center">
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c28073902adaa990d96817&pm=c" target="_blank"><img src="https://github.com/user-attachments/assets/706a6b9d-84aa-410c-8b59-9cac5554070e" width="400" alt="Chicago Taxi: Database"></a>
-<br>
-<br>
-<p>
-<a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=3563f54380c28073902adaa990d96817&pm=c" target="_blank">
-<img src="https://img.shields.io/badge/-Notion-green?style=for-the-badge&color=black"">
-</a>
-</p><strong>PostgreSQL, Git(Bash)</strong> - Performed log analysis and database queries for a taxi platform using GitBash and SQL. Extracted and filtered server logs, automated error log management, and generated business insights through advanced SQL queries, supporting data-driven troubleshooting and reporting.</p>
-</div>                                                                  
-</table>                                                                                 
+  <sub>Open to remote QA Engineer roles and freelance projects &nbsp;·&nbsp; Guadalajara, Mexico &nbsp;·&nbsp; <a href="mailto:casi_alex@outlook.es">casi_alex@outlook.es</a></sub>
 </div>
- 
