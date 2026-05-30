@@ -166,16 +166,6 @@ Before QA, I spent 3+ years in technical support building structured troubleshoo
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=casi-alex&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" height="160" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casi-alex&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=5" height="160" alt="Top Languages"/>
-</div>
-
----
-
 <div align="center">
   <sub>Open to remote QA Engineer roles and freelance projects &nbsp;·&nbsp; Guadalajara, Mexico &nbsp;·&nbsp; <a href="mailto:alexcasillaslab@gmail.com">alexcasillaslab@gmail.com</a></sub>
 </div>
