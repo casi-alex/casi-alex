@@ -90,8 +90,6 @@ Before QA, I spent 3+ years in technical support building structured troubleshoo
         <a href="https://github.com/casi-alex/qa-project-Urban-Routes-es" target="_blank">
           <img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33b3f54380c28073a6f8cf9d9076718e&pm=c" target="_blank">
-          <img src="https://img.shields.io/badge/DETAILS-000?style=for-the-badge&logo=notion&logoColor=white"/>
         </a>
         <br/><br/>
         <p align="left">
@@ -108,8 +106,6 @@ Before QA, I spent 3+ years in technical support building structured troubleshoo
         <a href="https://github.com/casi-alex/qa-project-Urban-Grocers-app-es" target="_blank">
           <img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://www.notion.so/Portfolio-2cd3f54380c280d4a6f8d993283b232f?p=33c3f54380c28075a0d2ec3096280deb&pm=c" target="_blank">
-          <img src="https://img.shields.io/badge/DETAILS-000?style=for-the-badge&logo=notion&logoColor=white"/>
         </a>
         <br/><br/>
         <p align="left">
